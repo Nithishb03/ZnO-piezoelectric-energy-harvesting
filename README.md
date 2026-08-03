@@ -203,32 +203,6 @@ The system can generate:
 
 ---
 
-## Screenshots
-
-Add the following screenshots to the `figures/` folder and update the file names below.
-
-### Dashboard Home
-```md
-
-```
-
-### Prediction Page
-```md
-
-```
-
-### Results Output
-```md
-
-```
-
-### Scientific Plots
-```md
-
-```
-
----
-
 ## Future Scope
 
 - Extend the model to additional piezoelectric materials.
