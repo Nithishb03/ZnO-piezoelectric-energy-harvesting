@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+piezo_env/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Gaussian scratch
+*.rwf
+*.scr
+
+# Matlab
+*.asv
+
+# Build
+dist/
+build/
+
+# Cache
+.cache/
+
+# Temporary
+*.tmp
