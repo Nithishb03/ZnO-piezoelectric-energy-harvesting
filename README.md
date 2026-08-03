@@ -216,10 +216,13 @@ The system can generate:
 
 ## License
 
-Add your preferred license before public release.
+This project is currently proprietary and not licensed for public reuse.  
+If you plan to open-source the repository, consider adding one of the following licenses:
 
----
+- MIT License for broad reuse with attribution.
+- Apache 2.0 for permissive use with patent protection.
+- GPLv3 if you want derivative works to remain open-source.
 
 ## Author
 
-Developed for research in piezoelectric energy harvesting, ZnO-based materials, and machine learning-assisted material prediction.
+Developed by **Sanjay S, Yashas M N, Nithish B, and Mohammud Firasath Khan** for research and prototyping in piezoelectric energy harvesting, ZnO-based materials, and machine learning-assisted material prediction.
